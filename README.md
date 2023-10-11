@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Ticket Booking Portal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web front-end of a new, ticket booking portal (Ticketmaster) service.
+
+## Tech Stack
+* React 18.2.0
+
+## Steps to run
+* Clone the repsoitory using `git clone git@github.com:naina-neu/TicketMaster.git`
+* From the folder `ticket-purchasing`, run `npm install` to download dependencies
+* Run `npm start` and open url `localhost:3000` from your browser
 
 ## Available Scripts
 
